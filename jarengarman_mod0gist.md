@@ -14,7 +14,7 @@ Hi all! I spent the past five years training to be a pilot, with the ultimate go
 
 ## Markdown Lesson
 
-[Mod 0 Plan Gist Link](https://gist.github.com/JarenGarman/d6380fdcca43ef2e86d907838cee186d#file-jarengarman_mod0plan-md)
+[Mod 0 Plan Gist Link](https://github.com/JarenGarman/m0_gists/blob/main/jarengarman_mod0plan.md)
 
 ### What is markdown?
 
